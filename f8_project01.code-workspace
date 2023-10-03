@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../Responsive_Burger_Website"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "f8_project01"
+    }
+}
